@@ -12,6 +12,12 @@ again. And, as ever, the PostgreSQL documentation is your friend 😜.
 
 We suggest you complete the questions in the following order
 
+- [ ] 00-neighbourhood_group_stays
+- [ ] 01-neighbourhood_group_average_price
+- [ ] 02-distinct_host_name
+- [ ] 03-review_counts_by_room_type
+- [ ] 04-avg_price_by_room_type
+- [ ] 05-multinight_stays_by_neighbourhood
 
 
 As you complete questions, you can mark them as complete
