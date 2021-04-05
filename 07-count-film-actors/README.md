@@ -2,6 +2,7 @@
 Count the numbers of actors in each film, sorting your
 results first by descending order of `actor_count` and 
 ascending `title`.  Your results should look like as follows.
+Use the `film` and `film_actor` tables.
 You'll want to use the `actor` and `film` tables.
 
 ```

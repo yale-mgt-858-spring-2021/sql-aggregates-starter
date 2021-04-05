@@ -1,5 +1,5 @@
 
-Using the `pagila.actors` table,
+Using the `pagila.actor` table,
 produce a list of actresses and actors in alphabetical order
 by last_name and first_name. Your results should look as follows;
 

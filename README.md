@@ -21,6 +21,9 @@ this starter code. (Of course, if you've already started, you won't see
 my updates automatically! You'll have to check Slack.) I'll also update
 this description on the class website.
 
+To get started, [accept this GitHub Classroom invite](https://classroom.github.com/a/nUxHd1YZ)
+and then paste your repo URL in the class website.
+
 
 ## Suggested order
 

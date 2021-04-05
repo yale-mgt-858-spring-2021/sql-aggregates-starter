@@ -1,6 +1,7 @@
 
 List all actresses and actors whose names
 begin with "A", sorting by last then first name.
+Use the `pagila.actor` table.
 Your results should look like as follows.
 
 ```
