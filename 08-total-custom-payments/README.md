@@ -1,6 +1,6 @@
 
 Produce a summary showing how much each customer has paid
-using the `customers` and `payments` tables. Sort your
+using the `customer` and `payment` tables. Sort your
 results by customer last name and then first name.
 Your results should look like as follows.
 
