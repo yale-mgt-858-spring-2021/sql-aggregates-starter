@@ -5,7 +5,10 @@ use the `rental` table to analyze the difference between the
 The `p25` column is the 25th percentile, `p50` is the 50 percentile
 (the median). You might want to use the [percentile_disc](https://leafo.net/guides/postgresql-calculating-percentile.html)
 function to compute these.
-Your results should look like this.
+Your results should look like this. Though, Datagrip may give you slightly
+different formatting to what you see here. I'm using the `psql` client
+and I'm told it has different looking output thann Datagrip. If you
+have the right query, it won't matter.
 
 ```
 │          avg           │   min    │       max       │       p25       │       p50       │       p75       │      p100       │

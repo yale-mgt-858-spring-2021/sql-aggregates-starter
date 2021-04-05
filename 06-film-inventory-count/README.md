@@ -1,6 +1,7 @@
 
 Produce a list of films and sort them by descending
-inventory count and ascending title.
+inventory count and ascending title. Use the
+`film` and `inventory` tables.
 Your results should look like as follows.
 
 ```

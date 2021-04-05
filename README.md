@@ -24,6 +24,18 @@ this description on the class website.
 To get started, [accept this GitHub Classroom invite](https://classroom.github.com/a/nUxHd1YZ)
 and then paste your repo URL in the class website.
 
+## Updates on Sun Apr  4
+Various updates based on feedback from Jean Chen.
+
+## Updates on Mon Apr  5 08:54:12 EDT 2021
+Updates based on feedback from Gary Yan.
+
+* **Q1 Actor Names**: The Readme.md file is missing formatting for last_name and first_name in the second last sentence of the file; (*CHANGED*)
+* **Q4 Staff Payments**: Not sure how explicit you want your instructions to be, but I had to also sort the names by alphabetical to match my answer with the example table; (**CHANGED**, but I also need to get my grading working such that for some questions order does not matter.)
+* **Q6 Film Inventory**: Does not name the tables to use for the SQL query, but assumed to be a JOIN of the tables film and inventory; (**CHANGED**)
+* **Q10 Most Popular**: Unless I'm misunderstanding something, I think you also need to JOIN the rental table as well? The payment table only contains rental_id and that needs to be converted into a category_id based on the chain rental_id -> inventory_id -> film_id -> category_id; (**CHANGED**, that is correct, though in the future I will not specify what tables are needed because it ought to be obvious from the schema.)
+* **Q11 Rental Statistics**: Is it a problem if the format Datagrip gives the answer in is a different format to what is in the example table? I assume this is a settings thing and not a data output issue. (This is not a problem. Your query will be run in a PostgreSQL client that is *not* Datagrip, so as long as your query is matches hime we should be fine.)
+
 
 ## Suggested order
 

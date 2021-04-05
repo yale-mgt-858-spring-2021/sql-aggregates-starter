@@ -1,6 +1,7 @@
 
 Using the `payment` and `staff` tables, show how much each
-staff person has rung up. Your results should look like this.
+staff person has rung up. Sort by last name then first name.
+Your results should look like this.
 
 ```
 │ first_name │ last_name │ net_payments │

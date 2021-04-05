@@ -1,6 +1,6 @@
 
 List all actresses and actors whose names
-begin with "A", sorting by last then first name.
+begin with "A", sorting by `last_name then `first_name`.
 Use the `pagila.actor` table.
 Your results should look like as follows.
 

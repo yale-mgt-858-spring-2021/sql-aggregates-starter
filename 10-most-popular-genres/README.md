@@ -1,5 +1,5 @@
 
-Using the `inventory`, `payment`, `film`, `film_category`,
+Using the `rental`, `inventory`, `payment`, `film`, `film_category`,
 and `category` tables, show the top five film categories
 by revenue in descending order.
 Your results should look like as follows.
